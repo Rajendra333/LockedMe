@@ -39,7 +39,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.example.virtualkey.VirtualKeyApplication</mainClass>
+                            <mainClass>org.example.lockedme.LockedMeApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
